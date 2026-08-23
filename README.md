@@ -1,4 +1,4 @@
-# Code_Test_Detection_de_signaux_hydrophones_ASUQTR
+# Code de test de détection de signaux d'hydrophones - ASUQTR
 
 **Réalisé par Louis Lavallée**
 
