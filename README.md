@@ -1,2 +1,14 @@
 # Code_Test_Detection_de_signaux_hydrophones_ASUQTR
-Code de test pour évaluer la faisabilité d'une détection de fréquences spécifiques par un microcontrôleur STM32.
+
+**Réalisé par Louis Lavallée**
+
+## Contexte du projet
+Ce projet fut réalisé dans le cadre du projet de fin d'étude en équipe du baccalauréat en génie électrique à l'UQTR. Le projet d'équipe était centralisé sur la poursuite du développement du sous-marin autonome du club étudiant [ASUQTR](https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=8035). L'objectif du club ASUQTR est de participer à la compétition internationale [Robosub](https://robosub.org/) où chaque équipe doit concevoir un sous-marin et lui faire accomplir des tâches et missions de manière entièrement autonome.
+
+## Objectif du projet
+
+
+### Sous-objectifs:
+
+
+## Documentation
