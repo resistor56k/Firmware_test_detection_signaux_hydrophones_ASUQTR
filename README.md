@@ -1,4 +1,4 @@
-# Code de test de détection de signaux d'hydrophones - ASUQTR
+# Code de test de détection de signaux d'hydrophones - Sous-marin autonome (ASUQTR)
 
 **Réalisé par Louis Lavallée**
 
