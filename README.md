@@ -12,3 +12,9 @@ Parmi les défis à relever lors de la compétition Robosub, il y a une zone de 
 
 
 ## Documentation
+**Mapping des pins des MCU avec** ***STM32CubeMX***\
+**Programmation des registres des MCU avec** ***STM32CubeProgrammer***\
+**Programmation des MCU avec** ***STM32CubeIDE***
+
+Fichier main.c du G474 du PCB: [main.c G474](main_g474.c)\
+Fichier main.c de la carte nucleo-F446RE: [main.c F446](main_f446.c)
