@@ -1,4 +1,4 @@
-# Code de test de détection de signaux d'hydrophones - Sous-marin autonome (ASUQTR)
+# Preuve de concept de détection de signaux d'hydrophones par un MCU - Sous-marin autonome (ASUQTR)
 
 **Réalisé par Louis Lavallée**
 
